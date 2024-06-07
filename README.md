@@ -1,4 +1,4 @@
-# A new deep convolutional network for effective hyperspectral unmixing
+# A New Deep Convolutional Network for Effective Hyperspectral Unmixing
 Xuanwen Tao, Mercedes E. Paoletti, Lirong Han, Zhaoyue Wu, Peng Ren, Javier Plaza, Antonio Plaza, Juan M. Haut.
 
 **1. Overview**
@@ -24,4 +24,4 @@ X. Tao, M. E. Paoletti, Z. Wu, J. M. Haut, P. Ren and A. Plaza, "An Abundance-Gu
 
 **3. Contact Information**
 
-Xuanwen Tao: txw_upc@126.com<br> 
+Xuanwen Tao: txw_upc@126.com<br> or taoxuanwenupc@gmail.com<br>
