@@ -8,7 +8,7 @@ Xuanwen Tao, Mercedes E. Paoletti, Lirong Han, Zhaoyue Wu, Peng Ren, Javier Plaz
 
 **2. Citation**
 
-Please kindly cite the papers if this code is useful and helpful for your research.
+Please kindly cite the paper if this code is useful and helpful for your research.
 
 X. Tao, M. E. Paoletti, Z. Wu, J. M. Haut, P. Ren and A. Plaza, "An Abundance-Guided Attention Network for Hyperspectral Unmixing," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-14, 2024, Art no. 5505414, doi: 10.1109/TGRS.2024.3353259.
 
