@@ -3,7 +3,7 @@ Xuanwen Tao, Mercedes E. Paoletti, Lirong Han, Zhaoyue Wu, Peng Ren, Javier Plaz
 
 **1. Overview**
 
-![2-CrossCUN](https://github.com/xuanwentao/Images/blob/main/CrossCUN.png)
+![2-CrossCUN](https://github.com/xuanwentao/IEEE_TGRS_CrossCUN/blob/main/CrossCUN.png)
 
 
 **2. Citation**
