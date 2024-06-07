@@ -10,7 +10,7 @@ Xuanwen Tao, Mercedes E. Paoletti, Lirong Han, Zhaoyue Wu, Peng Ren, Javier Plaz
 
 Please kindly cite the paper if this code is useful and helpful for your research.
 
-X. Tao, M. E. Paoletti, Z. Wu, J. M. Haut, P. Ren and A. Plaza, "An Abundance-Guided Attention Network for Hyperspectral Unmixing," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-14, 2024, Art no. 5505414, doi: 10.1109/TGRS.2024.3353259.
+X. Tao et al., "A New Deep Convolutional Network for Effective Hyperspectral Unmixing," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 6999-7012, 2022, doi: 10.1109/JSTARS.2022.3200733.
 
      @article{tao2022new,
       title={A new deep convolutional network for effective hyperspectral unmixing},
