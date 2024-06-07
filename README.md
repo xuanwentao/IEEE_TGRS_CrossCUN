@@ -24,4 +24,4 @@ X. Tao, M. E. Paoletti, Z. Wu, J. M. Haut, P. Ren and A. Plaza, "An Abundance-Gu
 
 **3. Contact Information**
 
-Xuanwen Tao: txw_upc@126.com<br> or taoxuanwenupc@gmail.com<br>
+Xuanwen Tao: txw_upc@126.com<br>; taoxuanwenupc@gmail.com<br>
